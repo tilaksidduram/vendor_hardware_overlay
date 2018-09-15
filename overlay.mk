@@ -21,6 +21,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-devinputjack \
 	treble-overlay-oneplus-op6 \
+	treble-overlay-oneplus-op5 \
 	treble-overlay-moto-g6plus \
 	treble-overlay-webview \
 	treble-overlay-wifi5g \
